@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "İlk Blog Yazısı",
+      "content": "Bu benim ilk blog yazım.",
+      "author": "Emre"
+    },
+    {
+      "id": "3728",
+      "title": "Benim ilk typescript maceram",
+      "content": "İlk api işlemcik",
+      "author": "Emre Bey"
+    }
+  ]
+}
