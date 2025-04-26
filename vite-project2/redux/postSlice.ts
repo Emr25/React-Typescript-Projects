@@ -15,7 +15,7 @@ const initialState: PostsState = {
 };
 
 // API URL
-const API_URL = 'http://localhost:3001/posts';
+const API_URL = 'http://localhost:3000/posts';
 
 // Async Thunks
 export const fetchPosts = createAsyncThunk('posts/fetchPosts', async () => {
